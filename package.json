@@ -1,0 +1,16 @@
+{
+  "name": "tests_con_jest",
+  "version": "1.0.0",
+  "description": "Prácticas de Jest para la Biblioteca Musical",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
