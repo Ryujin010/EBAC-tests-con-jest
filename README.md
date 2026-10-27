@@ -19,10 +19,6 @@ Proyecto desarrollado durante mi formación en **EBAC**.
 
 Pruebas unitarias automatizadas con Jest para verificar el comportamiento correcto del código JavaScript.
 
-<!-- Agrega aquí una captura de pantalla de tu proyecto:
-![Vista previa](./img/preview.png)
--->
-
 ## 🛠️ Tecnologías
 
 - **JavaScript**
